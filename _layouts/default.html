@@ -29,8 +29,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %} -->
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Retriever Logo" />
+        {% if site.logo and page.url == "/" %}
+          <img src="{{ site.logo | relative_url }}" alt="Retriever Logo" />
         {% elsif page.url == "/piano" %}
           <img src="/assets/img/piano.jpg" alt="Piano Logo" />
         {% endif %}
