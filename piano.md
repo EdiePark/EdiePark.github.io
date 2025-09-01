@@ -5,4 +5,4 @@ title: Piano
 
 # Piano
 
-Write something about yourself, your background, etc.
+Write something about your piano and your background, etc.
