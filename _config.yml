@@ -1,6 +1,19 @@
-title: Minimal theme
+title: Welcome to Edie Park's Homepage
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: ""
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Add navigation links here:
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Research"
+    url: "/research"
+  - title: "Piano"
+    url: "/piano"
+  - title: "School"
+    url: "/school"
