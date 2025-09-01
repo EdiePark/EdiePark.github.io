@@ -17,3 +17,6 @@ navigation:
     url: "/piano"
   - title: "School"
     url: "/school"
+  - title: "Outreach"
+    url: "/outreach"
+  
