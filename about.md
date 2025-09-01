@@ -5,4 +5,5 @@ title: About
 
 # About
 
-Write something about yourself, your background, etc.
+My Name is Edie, a junior at the XX School. 
+Blah.
